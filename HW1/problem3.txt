@@ -1,0 +1,3 @@
+(a) For the polynomial evaluation, both from the graph and understanding of floating-point operations I would choose the unexpanded form. As we can see on the graph the expanded form is very much off the true values throughout the graph, this closely corresponds with the fact that that the expanded for has more floating-point operations per calculation, both rounding and machine error and this gets added upon each floating-point operation in a calculation of the 
+
+(b) As seen in the graphs, for Stirling’s approximation, the absolute error increases and the relative error decreases with the increase in n.
